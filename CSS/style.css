@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(13, 25, 43);
+}
+
+.container{
+   /* border: solid 1px white; */
+   border-radius: 15px;
+   margin: 20px 300px 30px 400px;
+   width: 600px;
+   height: 770px;
+   background-color: rgb(20, 37, 61);
+}
+
+span{
+    color: white;
+}
+
+p{
+    color: rgb(96, 120, 147);
+}
+
+h3{
+    color: white;
+    padding-left: 20px;
+}
+
+hr{
+  margin: 20px;   
+}
+
+.inicio img{
+    width: 93%;
+    height: 500px;
+    padding: 20px; 
+}
+
+.inicio p{
+   padding-left: 20px;
+   padding-bottom: 30px;
+}
+
+.credito img{
+    width: 40px;
+    float: left;
+    border-radius: 50px;
+    margin-left: 20px;
+    margin-top: 10px;
+    border: solid 3px gray;
+}
+
+.credito p{
+    padding-top: 25px;
+    margin-left: 80px;  
+}
+   
